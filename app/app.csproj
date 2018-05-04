@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
     <PreserveCompilationContext>true</PreserveCompilationContext>
-    <AssemblyName>Calendar</AssemblyName>
+    <AssemblyName>app</AssemblyName>
     <OutputType>Exe</OutputType>
     <PackageId>Calendar</PackageId>
     <UserSecretsId>aspnet-Calendar-745a06c9-9e2e-489e-bbab-8e2492038138</UserSecretsId>
