@@ -5,7 +5,7 @@
     <PreserveCompilationContext>true</PreserveCompilationContext>
     <AssemblyName>app</AssemblyName>
     <OutputType>Exe</OutputType>
-    <PackageId>Calendar</PackageId>
+    <PackageId>app</PackageId>
     <UserSecretsId>aspnet-Calendar-745a06c9-9e2e-489e-bbab-8e2492038138</UserSecretsId>
     <RuntimeFrameworkVersion>2.0.0</RuntimeFrameworkVersion>
     <AssetTargetFallback>$(AssetTargetFallback);dotnet5.6;portable-net45+win8</AssetTargetFallback>
